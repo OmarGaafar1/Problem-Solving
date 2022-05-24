@@ -1,9 +1,9 @@
 # Sherlock And The Valid String
 
 
-## Site Of The Problem >> HackerRAnk
+## Site Of The Problem >> HackerRank
 
-##URL >> https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem
+## URL >> https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem
 
 ## Difficulty >> Meduim
 
