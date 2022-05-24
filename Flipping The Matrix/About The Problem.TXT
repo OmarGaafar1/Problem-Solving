@@ -1,7 +1,7 @@
-Site of the problem : HackerRank
+#Site of the problem : HackerRank
 
-URL of the problem : https://www.hackerrank.com/challenges/flipping-the-matrix/problem
+#URL of the problem : https://www.hackerrank.com/challenges/flipping-the-matrix/problem
 
-Difficulty : Meduim
+#Difficulty : Meduim
 
-Problem focuses on : Algorithms
+#Problem focuses on : Algorithms
