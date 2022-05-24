@@ -4,7 +4,7 @@
 
 ## Site Of The Problem >> HackerRank
 
-##URL >> https://www.hackerrank.com/challenges/queue-using-two-stacks/problem
+## URL >> https://www.hackerrank.com/challenges/queue-using-two-stacks/problem
 
 ## Difficulty >> Meduim
 
