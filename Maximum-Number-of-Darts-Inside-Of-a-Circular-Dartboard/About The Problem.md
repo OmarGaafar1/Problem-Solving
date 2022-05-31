@@ -17,7 +17,8 @@
 
 #### Submitted Version >> The  Accepted submitted Code !
 
-
+### This attached image will help you to approach case 3 
+![WhatsApp Image 2022-05-31 at 3 23 47 PM](https://user-images.githubusercontent.com/92587188/171184813-09ea24db-d6bf-46b0-8edb-d7f6ef01b811.jpeg)
 
 
  
