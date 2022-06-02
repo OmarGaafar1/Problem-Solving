@@ -1,5 +1,6 @@
 string encryption(string s) 
 {
+    
     int rows, columns;
     string no_spaces;
     // Removing spaces from text
