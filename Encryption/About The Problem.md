@@ -9,7 +9,7 @@ problem
 
 ## Difficulty >> Meduim
 
-## Problem focuses on >> Algorithms
+## Problem focuses on >> Algorithms -> strings
 
 
 ## All Test Cases Passed Successfully. 
