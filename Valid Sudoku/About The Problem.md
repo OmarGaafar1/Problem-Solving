@@ -1,6 +1,6 @@
 # Valid Sudoku
 
-## Site of the problem >> LeetCode
+## Site of the problem >> LeetCode 
 
 ## URL of the problem >>https://leetcode.com/problems/valid-sudoku/
 
