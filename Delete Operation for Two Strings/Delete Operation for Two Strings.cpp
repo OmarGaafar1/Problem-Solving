@@ -42,7 +42,7 @@ public:
                     DP[i][j] = 1 + min(DP[i - 1][j], DP[i][j - 1]);
                 }
 
-                //keeping this for each character, then at the last index of DP we will found the answer as its cumulative
+                //keeping this for each character, then at the last index of DP the answer will be found, as its cumulative
 
             }
         }
